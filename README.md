@@ -29,7 +29,7 @@
 ## hapus akun
 [alt text](https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/hapusakun.png?raw=true)
 ## laporanmasuk
-[alt text]https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/laporanmasuk.png(?raw=true)
+[alt text](https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/laporanmasuk.png?raw=true)
 # Dashboardmahasiswa
 [alt text](https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/dashboardmahasiswa.png?raw=true)
 ## cari praktikum
