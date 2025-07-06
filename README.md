@@ -35,7 +35,7 @@
 ## cari praktikum
 [alt text](https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/caripraktikum.png?raw=true)
 ## praktikum saya
-[alt text]https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/praktikumsaya.png(?raw=true)
+[alt text](https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/praktikumsaya.png?raw=true)
 ## mengirim laporan
 [alt text](https://github.com/naxsyambis/20230140163_UAS_PDW/blob/main/public/mengirimlaporan.png?raw=true)
 ## daftar modul
